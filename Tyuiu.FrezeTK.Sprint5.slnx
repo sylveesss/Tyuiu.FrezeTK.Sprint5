@@ -19,4 +19,9 @@
     <Project Path="Tyuiu.FrezeTK.Sprint5.Task3.V18.Test/Tyuiu.FrezeTK.Sprint5.Task3.V18.Test.csproj" />
     <Project Path="Tyuiu.FrezeTK.Sprint5.Task3.V18/Tyuiu.FrezeTK.Sprint5.Task3.V18.csproj" />
   </Folder>
+  <Folder Name="/Task4/">
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task4.V7.Lib/Tyuiu.FrezeTK.Sprint5.Task4.V7.Lib.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task4.V7.Test/Tyuiu.FrezeTK.Sprint5.Task4.V7.Test.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task4.V7/Tyuiu.FrezeTK.Sprint5.Task4.V7.csproj" />
+  </Folder>
 </Solution>
