@@ -1,1 +1,7 @@
-<Solution />
+<Solution>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task0.V27.Lib/Tyuiu.FrezeTK.Sprint5.Task0.V27.Lib.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task0.V27.Test/Tyuiu.FrezeTK.Sprint5.Task0.V27.Test.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task0.V27/Tyuiu.FrezeTK.Sprint5.Task0.V27.csproj" />
+  </Folder>
+</Solution>
