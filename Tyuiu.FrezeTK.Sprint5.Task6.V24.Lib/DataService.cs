@@ -1,10 +1,11 @@
 ﻿using System;
 using System.IO;
 using System.Text.RegularExpressions;
+using tyuiu.cources.programming.interfaces.Sprint5;
 
 namespace Tyuiu.FrezeTK.Sprint5.Task6.V24.Lib
 {
-    public class DataService
+    public class DataService: ISprint5Task6V24
     {
         public static int LoadFromDataFile(string path)
         {

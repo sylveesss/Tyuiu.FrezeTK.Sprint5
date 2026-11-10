@@ -1,10 +1,11 @@
 ﻿using System;
-using System.IO;
 using System.Globalization;
+using System.IO;
+using tyuiu.cources.programming.interfaces.Sprint5;
 
 namespace Tyuiu.FrezeTK.Sprint5.Task4.V7.Lib
 {
-    public class DataService
+    public class DataService: ISprint5Task4V7
     {
         public static double LoadFromDataFile(string path)
         {

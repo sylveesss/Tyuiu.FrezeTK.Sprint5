@@ -1,10 +1,11 @@
 ﻿using System;
 using System.IO;
 using System.Text;
+using tyuiu.cources.programming.interfaces.Sprint5;
 
 namespace Tyuiu.FrezeTK.Sprint5.Task3.V18.Lib
 {
-    public class DataService
+    public class DataService: ISprint5Task3V18
     {
         public static string SaveToFileTextData(int x)
         {
