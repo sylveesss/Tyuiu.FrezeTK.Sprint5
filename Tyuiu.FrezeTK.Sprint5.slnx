@@ -1,0 +1,42 @@
+<Solution>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task0.V27.Lib/Tyuiu.FrezeTK.Sprint5.Task0.V27.Lib.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task0.V27.Test/Tyuiu.FrezeTK.Sprint5.Task0.V27.Test.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task0.V27/Tyuiu.FrezeTK.Sprint5.Task0.V27.csproj" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task1.V22.Lib/Tyuiu.FrezeTK.Sprint5.Task1.V22.Lib.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task1.V22.Test/Tyuiu.FrezeTK.Sprint5.Task1.V22.Test.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task1.V22/Tyuiu.FrezeTK.Sprint5.Task1.V22.csproj" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task2.V11.Lib/Tyuiu.FrezeTK.Sprint5.Task2.V11.Lib.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task2.V11.Test/Tyuiu.FrezeTK.Sprint5.Task2.V11.Test.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task2.V11/Tyuiu.FrezeTK.Sprint5.Task2.V11.csproj" />
+  </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task3.V18.Lib/Tyuiu.FrezeTK.Sprint5.Task3.V18.Lib.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task3.V18.Test/Tyuiu.FrezeTK.Sprint5.Task3.V18.Test.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task3.V18/Tyuiu.FrezeTK.Sprint5.Task3.V18.csproj" />
+  </Folder>
+  <Folder Name="/Task4/">
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task4.V7.Lib/Tyuiu.FrezeTK.Sprint5.Task4.V7.Lib.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task4.V7.Test/Tyuiu.FrezeTK.Sprint5.Task4.V7.Test.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task4.V7/Tyuiu.FrezeTK.Sprint5.Task4.V7.csproj" />
+  </Folder>
+  <Folder Name="/Task5/">
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task5.V13.Lib/Tyuiu.FrezeTK.Sprint5.Task5.V13.Lib.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task5.V13.Test/Tyuiu.FrezeTK.Sprint5.Task5.V13.Test.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task5.V13/Tyuiu.FrezeTK.Sprint5.Task5.V13.csproj" />
+  </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task6.V24.Lib/Tyuiu.FrezeTK.Sprint5.Task6.V24.Lib.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task6.V24.Test/Tyuiu.FrezeTK.Sprint5.Task6.V24.Test.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task6.V24/Tyuiu.FrezeTK.Sprint5.Task6.V24.csproj" />
+  </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task7.V14.Lib/Tyuiu.FrezeTK.Sprint5.Task7.V14.Lib.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task7.V14.Test/Tyuiu.FrezeTK.Sprint5.Task7.V14.Test.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint5.Task7.V14/Tyuiu.FrezeTK.Sprint5.Task7.V14.csproj" />
+  </Folder>
+</Solution>
